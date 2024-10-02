@@ -1,0 +1,21 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore database backups or dumps
+*.sql
+
+# Ignore build output
+/dist/
+/build/
+
+# Ignore IDE/editor specific files
+.vscode/
+*.swp
+.DS_Store
